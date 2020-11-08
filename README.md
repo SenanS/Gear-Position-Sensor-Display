@@ -1,6 +1,6 @@
 # Gear-Position-Sensor-Display
 
-#0.=## Code to read a resistive Gear Position Sensor (GPS) and output the current gear position to either a Seven Segment display or an 8x8 Dot Matrix.
+### Code to read a resistive Gear Position Sensor (GPS) and output the current gear position to either a Seven Segment display or an 8x8 Dot Matrix.
 
 In both versions the resistance is read between common ground and each of the red & blue wires.
 
@@ -15,7 +15,7 @@ The final circuit schematic can be seen below.
 ![Dot Schema](https://github.com/SenanS/Gear-Position-Sensor-Display/blob/main/Images/Matrix%20Schematic.PNG)
 
 The GPS corresponding values & Dot Matrix illumination positions:
-![Poses](https://github.com/SenanS/Gear-Position-Sensor-Display/blob/main/Images/Matrix%20Tables.PNG)
+![Positions Table](https://github.com/SenanS/Gear-Position-Sensor-Display/blob/main/Images/Matrix%20Tables.PNG)
 
 ### Final GPS Dot Matrix Display:
 ![Final](https://github.com/SenanS/Gear-Position-Sensor-Display/blob/main/Images/WorkingGPS.gif)
