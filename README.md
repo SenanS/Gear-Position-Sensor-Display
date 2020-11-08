@@ -6,7 +6,7 @@ In both versions the resistance is read between common ground and each of the re
 
 ### Seven Segment:
 The seven segment version displays to a single digit seven segment display.<br />
-A protoype can be seen below:
+A prototype can be seen below:
 ![Seven Segment Circuit](https://github.com/SenanS/Gear-Position-Sensor-Display/blob/main/Images/7%20Seg%20Prototype.jpg)
 
 ### Dot Matrix:
